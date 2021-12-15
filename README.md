@@ -1,5 +1,3 @@
 Hello
 
-This is new line
-
-trying add and commit in single command
+This is a demo model for classifying the objects
